@@ -1,3 +1,0 @@
-tensorflow==2.4.0
-keras==2.4.3
-kerastuner==1.0.2
